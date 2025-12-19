@@ -1,7 +1,7 @@
 # Hi, I'm Mert Hüseyin
 
 <p align="center">
-  <img src="assets/square-black.svg" width="96" height="96" alt="kendlenx logo" />
+  <img src="assets/logo.png" width="120" height="120" alt="kendlenx logo" />
 </p>
 
 <p align="center">
